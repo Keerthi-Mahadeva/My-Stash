@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "workbench.experimental.layoutControl.enabled": true,
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#0077ff91"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.renderWhitespace": "all",
+    "editor.cursorStyle": "block",
+    "editor.minimap.enabled": false,
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "editor.inlineSuggest.enabled": true,
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.analysis.typeCheckingMode": "basic",
+}
