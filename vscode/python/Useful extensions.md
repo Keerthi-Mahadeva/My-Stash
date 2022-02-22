@@ -4,6 +4,8 @@
 1. Pylint
 1. AREPL for Python
 1. Visual Studio IntelliCode API Usage Examples
+1. Git Lens
+1. Git Graph
 
 
 ### AI Assistants
